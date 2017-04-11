@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'http://goagent.app.com/index.php';
-$__hosts__ = array('goagent.app.com');
+$__relay__ = 'https://junhao-ye.herokuapp.com/index.php';
+$__hosts__ = array('junhao-ye.herokuapp.com');
 $__timeout__ = 16;
 
 
